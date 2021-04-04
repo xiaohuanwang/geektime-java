@@ -1,4 +1,4 @@
-package com.nio.gateway;
+package com.nio.gateway.client;
 
 
 import okhttp3.OkHttpClient;
